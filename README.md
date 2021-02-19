@@ -1,7 +1,7 @@
 # Changin CSS variable using Javascript
 From html page we can change the property of CSS varible using Javascript.
 
-For running this project in your local machine no addtional setup is not required.
+For running this project in your local machine addtional setup is not required.
 Browser which is ES6 supported is able to run this project.
 
 Use below link for playing video to see the actual output of this project.
